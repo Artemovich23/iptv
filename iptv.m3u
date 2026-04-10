@@ -1,0 +1,418 @@
+#EXTM3U 
+#EXTGRP:СКС-Лугань
+#EXTINF:-1 tvg-id="Первый канал" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Первый%20канал.png",Первый канал
+http://31.133.46.225:8003/play/a04f
+#EXTINF:-1 tvg-id="Первый канал +2" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Первый%20канал%20+2.png",Первый канал +2
+http://31.133.46.225:8003/play/a0b2
+#EXTINF:-1 tvg-id="Первый канал +4" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Первый%20канал%20+4.png",Первый канал +4
+http://31.133.46.225:8003/play/a0b3
+#EXTINF:-1 tvg-id="Россия 1" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Россия%201.png",Россия 1
+http://31.133.46.225:8003/play/a04q
+#EXTINF:-1 tvg-id="Россия 1 +2" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Россия%201%20+2.png",Россия 1 +2
+http://31.133.46.225:8003/play/a0ba
+#EXTINF:-1 tvg-id="Россия 24" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Россия%2024.png",Россия 24
+http://31.133.46.225:8003/play/a04s
+#EXTINF:-1 tvg-id="Россия К" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Россия%20К.png",Россия К
+http://31.133.46.225:8003/play/a04t
+#EXTINF:-1 tvg-id="ТНТ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТНТ.png",ТНТ
+http://31.133.46.225:8003/play/a057
+#EXTINF:-1 tvg-id="ТНТ +2" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТНТ%20+2.png",ТНТ +2
+http://31.133.46.225:8003/play/a0bl
+#EXTINF:-1 tvg-id="ТНТ Music" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТНТ%20Music.png",ТНТ Music
+http://31.133.46.225:8003/play/a059
+#EXTINF:-1 tvg-id="ТНТ4" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТНТ4.png",ТНТ4
+http://31.133.46.225:8003/play/a05a
+#EXTINF:-1 tvg-id="РЕН ТВ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/РЕН%20ТВ.png",РЕН ТВ
+http://31.133.46.225:8003/play/a04m
+#EXTINF:-1 tvg-id="РЕН ТВ +4" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/РЕН%20ТВ%20+4.png",РЕН ТВ +4
+http://31.133.46.225:8003/play/a0b9
+#EXTINF:-1 tvg-id="НТВ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ.png",НТВ
+http://31.133.46.225:8003/play/a040
+#EXTINF:-1 tvg-id="НТВ +4" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20+4.png",НТВ +4
+http://31.133.46.225:8003/play/a0ay
+#EXTINF:-1 tvg-id="НТВ HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20HD.png",НТВ HD
+http://31.133.46.225:8003/play/a041
+#EXTINF:-1 tvg-id="НТВ Право" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Право.png",НТВ Право
+http://31.133.46.225:8003/play/a042
+#EXTINF:-1 tvg-id="НТВ Сериал" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Сериал.png",НТВ Сериал
+http://31.133.46.225:8003/play/a043
+#EXTINF:-1 tvg-id="НТВ Стиль" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Стиль.png",НТВ Стиль
+http://31.133.46.225:8003/play/a044
+#EXTINF:-1 tvg-id="НТВ Хит" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Хит.png",НТВ Хит
+http://31.133.46.225:8003/play/a045
+#EXTINF:-1 tvg-id="Телепутешествия" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Телепутешествия.png",Телепутешествия
+http://31.133.46.225:8003/play/a06y
+#EXTINF:-1 tvg-id="Техно 24" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Техно%2024.png",Техно 24
+http://31.133.46.225:8003/play/a002
+#EXTINF:-1 tvg-id="ТНВ-Планета" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТНВ-Планета.png",ТНВ-Планета
+http://31.133.46.225:8003/play/a0bk
+#EXTINF:-1 tvg-id="Travel+Adventure" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Travel+Adventure.png",Travel+Adventure
+http://31.133.46.225:8003/play/a01d
+#EXTINF:-1 tvg-id="Insight UHD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Insight%20UHD.png",Insight UHD
+http://31.133.46.225:8003/play/a06m
+#EXTINF:-1 tvg-id="RTG HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/RTG%20HD.png",RTG HD
+http://31.133.46.225:8003/play/a015
+#EXTINF:-1 tvg-id="RTG TV" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/RTG%20TV.png",RTG TV
+http://31.133.46.225:8003/play/a06n
+#EXTINF:-1 tvg-id="Ocean TV" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Ocean%20TV.png",Ocean TV
+http://31.133.46.225:8003/play/a09a
+#EXTINF:-1 tvg-id="Investigation Discovery" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Investigation%20Discovery.png",Investigation Discovery
+http://31.133.46.225:8003/play/a06l
+#EXTINF:-1 tvg-id="Animal Planet" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Animal%20Planet.png",Animal Planet
+http://31.133.46.225:8003/play/a06i
+#EXTINF:-1 tvg-id="Big Planet" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Big%20Planet.png",Big Planet
+http://31.133.46.225:8003/play/a08g
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Discovery%20Channel.png",Discovery Channel
+http://31.133.46.225:8003/play/a06j
+#EXTINF:-1 tvg-id="H2 HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/H2%20HD.png",H2 HD
+http://31.133.46.225:8003/play/a06k
+#EXTINF:-1 tvg-id="TERRA" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TERRA.png",TERRA
+http://31.133.46.225:8003/play/a011
+#EXTINF:-1 tvg-id="TERRA HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TERRA%20HD.png",TERRA HD
+http://31.133.46.225:8003/play/a012
+#EXTINF:-1 tvg-id="История" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/История.png",История
+http://31.133.46.225:8003/play/a02h
+#EXTINF:-1 tvg-id="Viasat Explore" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viasat%20Explore.png",Viasat Explore
+http://31.133.46.225:8003/play/a01h
+#EXTINF:-1 tvg-id="Viasat History" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viasat%20History.png",Viasat History
+http://31.133.46.225:8003/play/a09o
+#EXTINF:-1 tvg-id="Viasat Nature" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viasat%20Nature.png",Viasat Nature
+http://31.133.46.225:8003/play/a01i
+#EXTINF:-1 tvg-id="Viju+ Planet" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viju+%20Planet.png",Viju+ Planet
+http://31.133.46.225:8003/play/a01j
+#EXTINF:-1 tvg-id="Диалоги о рыбалке" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Диалоги%20о%20рыбалке.png",Диалоги о рыбалке
+http://31.133.46.225:8003/play/a01z
+#EXTINF:-1 tvg-id="Дикая охота HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Дикая%20охота%20HD.png",Дикая охота HD
+http://31.133.46.225:8003/play/a020
+#EXTINF:-1 tvg-id="Дикая рыбалка HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Дикая%20рыбалка%20HD.png",Дикая рыбалка HD
+http://31.133.46.225:8003/play/a021
+#EXTINF:-1 tvg-id="Дикий" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Дикий.png",Дикий
+http://31.133.46.225:8003/play/a022
+#EXTINF:-1 tvg-id="В мире животных HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/В%20мире%20животных%20HD.png",В мире животных HD
+http://31.133.46.225:8003/play/a06q
+#EXTINF:-1 tvg-id="Домашние животные" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Домашние%20животные.png",Домашние животные
+http://31.133.46.225:8003/play/a026
+#EXTINF:-1 tvg-id="Живая планета" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Живая%20планета.png",Живая планета
+http://31.133.46.225:8003/play/a02c
+#EXTINF:-1 tvg-id="Живая природа HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Живая%20природа%20HD.png",Живая природа HD
+http://31.133.46.225:8003/play/a0a5
+#EXTINF:-1 tvg-id="Загородная жизнь" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Загородная%20жизнь.png",Загородная жизнь
+http://31.133.46.225:8003/play/a0a8
+#EXTINF:-1 tvg-id="Загородный" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Загородный.png",Загородный
+http://31.133.46.225:8003/play/a07r
+#EXTINF:-1 tvg-id="Моя Планета" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Моя%20Планета.png",Моя Планета
+http://31.133.46.225:8003/play/a03s
+#EXTINF:-1 tvg-id="Моя Планета HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Моя%20Планета%20HD.png",Моя Планета HD
+http://31.133.46.225:8003/play/a0as
+#EXTINF:-1 tvg-id="Охота и рыбалка" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Охота%20и%20рыбалка.png",Охота и рыбалка
+http://31.133.46.225:8003/play/a04d
+#EXTINF:-1 tvg-id="Охотник и рыболов HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Охотник%20и%20рыболов%20HD.png",Охотник и рыболов HD
+http://31.133.46.225:8003/play/a07t
+#EXTINF:-1 tvg-id="Первый космический HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Первый%20космический%20HD.png",Первый космический HD
+http://31.133.46.225:8003/play/a06v
+#EXTINF:-1 tvg-id=".black" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/.black.png",.black
+http://31.133.46.225:8003/play/a01a
+#EXTINF:-1 tvg-id=".red" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/.red.png",.red
+http://31.133.46.225:8003/play/a001
+#EXTINF:-1 tvg-id=".red HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/.red%20HD.png",.red HD
+http://31.133.46.225:8003/play/a05v
+#EXTINF:-1 tvg-id=".sci-fi" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/.sci-fi.png",.sci-fi
+http://31.133.46.225:8003/play/a019
+#EXTINF:-1 tvg-id="12 Канал Омск" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/12%20Канал%20Омск.png",12 Канал Омск
+http://31.133.46.225:8003/play/a08a
+#EXTINF:-1 tvg-id="2x2" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/2x2.png",2x2
+http://31.133.46.225:8003/play/a003
+#EXTINF:-1 tvg-id="Amedia 1" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Amedia%201.png",Amedia 1
+http://31.133.46.225:8003/play/a008
+#EXTINF:-1 tvg-id="Amedia 2" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Amedia%202.png",Amedia 2
+http://31.133.46.225:8003/play/a009
+#EXTINF:-1 tvg-id="Amedia Hit" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Amedia%20Hit.png",Amedia Hit
+http://31.133.46.225:8003/play/a00a
+#EXTINF:-1 tvg-id="Bollywood HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bollywood%20HD.png",Bollywood HD
+http://31.133.46.225:8003/play/a00d
+#EXTINF:-1 tvg-id="FoodTime HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/FoodTime%20HD.png",FoodTime HD
+http://31.133.46.225:8003/play/a07o
+#EXTINF:-1 tvg-id="Hollywood HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Hollywood%20HD.png",Hollywood HD
+http://31.133.46.225:8003/play/a00v
+#EXTINF:-1 tvg-id="KinoLiving" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KinoLiving.png",KinoLiving
+http://31.133.46.225:8003/play/a08y
+#EXTINF:-1 tvg-id="Russian Extreme HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Russian%20Extreme%20HD.png",Russian Extreme HD
+http://31.133.46.225:8003/play/a073
+#EXTINF:-1 tvg-id="Russian Extreme Ultra" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Russian%20Extreme%20Ultra.png",Russian Extreme Ultra
+http://31.133.46.225:8003/play/a074
+#EXTINF:-1 tvg-id="Star cinema" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Star%20cinema.png",Star cinema
+http://31.133.46.225:8003/play/a09h
+#EXTINF:-1 tvg-id="TV1000" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TV1000.png",TV1000
+http://31.133.46.225:8003/play/a01e
+#EXTINF:-1 tvg-id="TV1000 Action" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TV1000%20Action.png",TV1000 Action
+http://31.133.46.225:8003/play/a01f
+#EXTINF:-1 tvg-id="TV1000 Русское кино" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TV1000%20Русское%20кино.png",TV1000 Русское кино
+http://31.133.46.225:8003/play/a01g
+#EXTINF:-1 tvg-id="ViP Megahit HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ViP%20Megahit%20HD.png",ViP Megahit HD
+http://31.133.46.225:8003/play/a01m
+#EXTINF:-1 tvg-id="ViP Premiere HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ViP%20Premiere%20HD.png",ViP Premiere HD
+http://31.133.46.225:8003/play/a01n
+#EXTINF:-1 tvg-id="Еврокино" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Еврокино.png",Еврокино
+http://31.133.46.225:8003/play/a028
+#EXTINF:-1 tvg-id="Звезда" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Звезда.png",Звезда
+http://31.133.46.225:8003/play/a02d
+#EXTINF:-1 tvg-id="Звезда Плюс" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Звезда%20Плюс.png",Звезда Плюс
+http://31.133.46.225:8003/play/a0a7
+#EXTINF:-1 tvg-id="Зоо ТВ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Зоо%20ТВ.png",Зоо ТВ
+http://31.133.46.225:8003/play/a06s
+#EXTINF:-1 tvg-id="Камеди" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Камеди.png",Камеди
+http://31.133.46.225:8003/play/a062
+#EXTINF:-1 tvg-id="Капитан Фантастика HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Капитан%20Фантастика%20HD.png",Капитан Фантастика HD
+http://31.133.46.225:8003/play/a07b
+#EXTINF:-1 tvg-id="Дом кино" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Дом%20кино.png",Дом кино
+http://31.133.46.225:8003/play/a024
+#EXTINF:-1 tvg-id="Дом кино Премиум HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Дом%20кино%20Премиум%20HD.png",Дом кино Премиум HD
+http://31.133.46.225:8003/play/a05q
+#EXTINF:-1 tvg-id="Дорама" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Дорама.png",Дорама
+http://31.133.46.225:8003/play/a00i
+#EXTINF:-1 tvg-id="Душевное HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Душевное%20HD.png",Душевное HD
+http://31.133.46.225:8003/play/a061
+#EXTINF:-1 tvg-id="Домашний" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Домашний.png",Домашний
+http://31.133.46.225:8003/play/a027
+#EXTINF:-1 tvg-id="КИНЕКО" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/КИНЕКО.png",КИНЕКО
+http://31.133.46.225:8003/play/a00o
+#EXTINF:-1 tvg-id="Кино UHD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кино%20UHD.png",Кино UHD
+http://31.133.46.225:8003/play/a063
+#EXTINF:-1 tvg-id="Индия" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Индия.png",Индия
+http://31.133.46.225:8003/play/a01p
+#EXTINF:-1 tvg-id="Блокбастер" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Блокбастер.png",Блокбастер
+http://31.133.46.225:8003/play/a05z
+#EXTINF:-1 tvg-id="Иллюзион+" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Иллюзион+.png",Иллюзион+
+http://31.133.46.225:8003/play/a02f
+#EXTINF:-1 tvg-id="Киноман" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киноман.png",Киноман
+http://31.133.46.225:8003/play/a064
+#EXTINF:-1 tvg-id="Кинопоказ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинопоказ.png",Кинопоказ
+http://31.133.46.225:8003/play/a065
+#EXTINF:-1 tvg-id="Наше мужское" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20мужское.png",Наше мужское
+http://31.133.46.225:8003/play/a06a
+#EXTINF:-1 tvg-id="Наше новое кино" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20новое%20кино.png",Наше новое кино
+http://31.133.46.225:8003/play/a047
+#EXTINF:-1 tvg-id="Кинопремьера HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинопремьера%20HD.png",Кинопремьера HD
+http://31.133.46.225:8003/play/a02p
+#EXTINF:-1 tvg-id="Кинокомедия" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
+http://31.133.46.225:8003/play/a02v
+#EXTINF:-1 tvg-id="Родное кино" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Родное%20кино.png",Родное кино
+http://31.133.46.225:8003/play/a04p
+#EXTINF:-1 tvg-id="Киномикс HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киномикс%20HD.png",Киномикс HD
+http://31.133.46.225:8003/play/a0ag
+#EXTINF:-1 tvg-id="Киносвидание" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание.png",Киносвидание
+http://31.133.46.225:8003/play/a02q
+#EXTINF:-1 tvg-id="Киносемья HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносемья%20HD.png",Киносемья HD
+http://31.133.46.225:8003/play/a0ah
+#EXTINF:-1 tvg-id="Киносерия" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносерия.png",Киносерия
+http://31.133.46.225:8003/play/a02s
+#EXTINF:-1 tvg-id="Индийское кино" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Индийское%20кино.png",Индийское кино
+http://31.133.46.225:8003/play/a02g
+#EXTINF:-1 tvg-id="Мужское кино" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мужское%20кино.png",Мужское кино
+http://31.133.46.225:8003/play/a03t
+#EXTINF:-1 tvg-id="Киноужас" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киноужас.png",Киноужас
+http://31.133.46.225:8003/play/a02t
+#EXTINF:-1 tvg-id="Комедия" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Комедия.png",Комедия
+http://31.133.46.225:8003/play/a04u
+#EXTINF:-1 tvg-id="Любимое кино" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Любимое%20кино.png",Любимое кино
+http://31.133.46.225:8003/play/a030
+#EXTINF:-1 tvg-id="Мир сериала" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мир%20сериала.png",Мир сериала
+http://31.133.46.225:8003/play/a03n
+#EXTINF:-1 tvg-id="Мосфильм. Золотая коллекция" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мосфильм.%20Золотая%20коллекция.png",Мосфильм. Золотая коллекция
+http://31.133.46.225:8003/play/a03q
+#EXTINF:-1 tvg-id="Русский иллюзион" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20иллюзион.png",Русский иллюзион
+http://31.133.46.225:8003/play/a04v
+#EXTINF:-1 tvg-id="САПФИР" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/САПФИР.png",САПФИР
+http://31.133.46.225:8003/play/a00q
+#EXTINF:-1 tvg-id="Страшное HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Страшное%20HD.png",Страшное HD
+http://31.133.46.225:8003/play/a0bh
+#EXTINF:-1 tvg-id="Кухня ТВ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кухня%20ТВ.png",Кухня ТВ
+http://31.133.46.225:8003/play/a02y
+#EXTINF:-1 tvg-id="НСТ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НСТ.png",НСТ
+http://31.133.46.225:8003/play/a03z
+#EXTINF:-1 tvg-id="МИР 24" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/МИР%2024.png",МИР 24
+http://31.133.46.225:8003/play/a03l
+#EXTINF:-1 tvg-id="МИР HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/МИР%20HD.png",МИР HD
+http://31.133.46.225:8003/play/a05u
+#EXTINF:-1 tvg-id="Авто 24" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Авто%2024.png",Авто 24
+http://31.133.46.225:8003/play/a01q
+#EXTINF:-1 tvg-id="Авто Плюс" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Авто%20Плюс.png",Авто Плюс
+http://31.133.46.225:8003/play/a01r
+#EXTINF:-1 tvg-id="Анекдот ТВ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Анекдот%20ТВ.png",Анекдот ТВ
+http://31.133.46.225:8003/play/a07j
+#EXTINF:-1 tvg-id="Беларусь 24" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Беларусь%2024.png",Беларусь 24
+http://31.133.46.225:8003/play/a080
+#EXTINF:-1 tvg-id="Время" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Время.png",Время
+http://31.133.46.225:8003/play/a01x
+#EXTINF:-1 tvg-id="Драйв" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Драйв.png",Драйв
+http://31.133.46.225:8003/play/a07q
+#EXTINF:-1 tvg-id="Оружие" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Оружие.png",Оружие
+http://31.133.46.225:8003/play/a06u
+#EXTINF:-1 tvg-id="Остросюжетное HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Остросюжетное%20HD.png",Остросюжетное HD
+http://31.133.46.225:8003/play/a05n
+#EXTINF:-1 tvg-id="Победа" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Победа.png",Победа
+http://31.133.46.225:8003/play/a04h
+#EXTINF:-1 tvg-id="Премиальное HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Премиальное%20HD.png",Премиальное HD
+http://31.133.46.225:8003/play/a05o
+#EXTINF:-1 tvg-id="Про любовь" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Про%20любовь.png",Про любовь
+http://31.133.46.225:8003/play/a06b
+#EXTINF:-1 tvg-id="Продвижение" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Продвижение.png",Продвижение
+http://31.133.46.225:8003/play/a04j
+#EXTINF:-1 tvg-id="Психология 21" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Психология%2021.png",Психология 21
+http://31.133.46.225:8003/play/a07v
+#EXTINF:-1 tvg-id="Пятница!" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Пятница!.png",Пятница!
+http://31.133.46.225:8003/play/a04k
+#EXTINF:-1 tvg-id="Пятый канал" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Пятый%20канал.png",Пятый канал
+http://31.133.46.225:8003/play/a006
+#EXTINF:-1 tvg-id="РТР Планета" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/РТР%20Планета.png",РТР Планета
+http://31.133.46.225:8003/play/a04n
+#EXTINF:-1 tvg-id="Союз" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Союз.png",Союз
+http://31.133.46.225:8003/play/a0bg
+#EXTINF:-1 tvg-id="Спас" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Спас.png",Спас
+http://31.133.46.225:8003/play/a053
+#EXTINF:-1 tvg-id="СТС HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/СТС%20HD.png",СТС HD
+http://31.133.46.225:8003/play/a05p
+#EXTINF:-1 tvg-id="СТС Love" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/СТС%20Love.png",СТС Love
+http://31.133.46.225:8003/play/a051
+#EXTINF:-1 tvg-id="Суббота!" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Суббота!.png",Суббота!
+http://31.133.46.225:8003/play/a02l
+#EXTINF:-1 tvg-id="ТВ3" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТВ3.png",ТВ3
+http://31.133.46.225:8003/play/a055
+#EXTINF:-1 tvg-id="ТВЦ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТВЦ.png",ТВЦ
+http://31.133.46.225:8003/play/a056
+#EXTINF:-1 tvg-id="Телекафе" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Телекафе.png",Телекафе
+http://31.133.46.225:8003/play/a05d
+#EXTINF:-1 tvg-id="Усадьба" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Усадьба.png",Усадьба
+http://31.133.46.225:8003/play/a05g
+#EXTINF:-1 tvg-id="Феникс+Кино" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Феникс+Кино.png",Феникс+Кино
+http://31.133.46.225:8003/play/a06f
+#EXTINF:-1 tvg-id="Хит" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Хит.png",Хит
+http://31.133.46.225:8003/play/a06g
+#EXTINF:-1 tvg-id="Че" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Че.png",Че
+http://31.133.46.225:8003/play/a05h
+#EXTINF:-1 tvg-id="Шокирующее HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Шокирующее%20HD.png",Шокирующее HD
+http://31.133.46.225:8003/play/a06h
+#EXTINF:-1 tvg-id="Ю" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Ю.png",Ю
+http://31.133.46.225:8003/play/a05i
+#EXTINF:-1 tvg-id="Уникум" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Уникум.png",Уникум
+http://31.133.46.225:8003/play/a05f
+#EXTINF:-1 tvg-id="Малыш" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Малыш.png",Малыш
+http://31.133.46.225:8003/play/a0bi
+#EXTINF:-1 tvg-id="Мама" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мама.png",Мама
+http://31.133.46.225:8003/play/a032
+#EXTINF:-1 tvg-id="Лёва HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Лёва%20HD.png",Лёва HD
+http://31.133.46.225:8003/play/a090
+#EXTINF:-1 tvg-id="Карусель" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Карусель.png",Карусель
+http://31.133.46.225:8003/play/a02m
+#EXTINF:-1 tvg-id="Детский мир" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Детский%20мир.png",Детский мир
+http://31.133.46.225:8003/play/a05r
+#EXTINF:-1 tvg-id="О!" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/О!.png",О!
+http://31.133.46.225:8003/play/a013
+#EXTINF:-1 tvg-id="TiJi" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/TiJi.png",TiJi
+http://31.133.46.225:8003/play/a01b
+#EXTINF:-1 tvg-id="Duck TV" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Duck%20TV.png",Duck TV
+http://31.133.46.225:8003/play/a08p
+#EXTINF:-1 tvg-id="Радость моя" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Радость%20моя.png",Радость моя
+http://31.133.46.225:8003/play/a04o
+#EXTINF:-1 tvg-id="В гостях у сказки" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/В%20гостях%20у%20сказки.png",В гостях у сказки
+http://31.133.46.225:8003/play/a010
+#EXTINF:-1 tvg-id="Bolt" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bolt.png",Bolt
+http://31.133.46.225:8003/play/a08h
+#EXTINF:-1 tvg-id="Da Vinci" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Da%20Vinci.png",Da Vinci
+http://31.133.46.225:8003/play/a01y
+#EXTINF:-1 tvg-id="Gulli Girl" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Gulli%20Girl.png",Gulli Girl
+http://31.133.46.225:8003/play/a00s
+#EXTINF:-1 tvg-id="Nick Jr" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Nick%20Jr.png",Nick Jr
+http://31.133.46.225:8003/play/a096
+#EXTINF:-1 tvg-id="Бобер" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Бобер.png",Бобер
+http://31.133.46.225:8003/play/a01t
+#EXTINF:-1 tvg-id="Солнце" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Солнце.png",Солнце
+http://31.133.46.225:8003/play/a02k
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Nickelodeon.png",Nickelodeon
+http://31.133.46.225:8003/play/a097
+#EXTINF:-1 tvg-id="Nicktoons" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Nicktoons.png",Nicktoons
+http://31.133.46.225:8003/play/a098
+#EXTINF:-1 tvg-id="Мульт" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мульт.png",Мульт
+http://31.133.46.225:8003/play/a03w
+#EXTINF:-1 tvg-id="Мультиландия" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мультиландия.png",Мультиландия
+http://31.133.46.225:8003/play/a03y
+#EXTINF:-1 tvg-id="Мультимузыка" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Мультимузыка.png",Мультимузыка
+http://31.133.46.225:8003/play/a03x
+#EXTINF:-1 tvg-id="Рыжий" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Рыжий.png",Рыжий
+http://31.133.46.225:8003/play/a07c
+#EXTINF:-1 tvg-id="СТС Kids" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/СТС%20Kids.png",СТС Kids
+http://31.133.46.225:8003/play/a07d
+#EXTINF:-1 tvg-id="Ani" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Ani.png",Ani
+http://31.133.46.225:8003/play/a00c
+#EXTINF:-1 tvg-id="Шансон-TB" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Шансон-TB.png",Шансон-TB
+http://31.133.46.225:8003/play/a0bv
+#EXTINF:-1 tvg-id="МузСоюз" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/МузСоюз.png",МузСоюз
+http://31.133.46.225:8003/play/a07h
+#EXTINF:-1 tvg-id="RU.TV" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/RU.TV.png",RU.TV
+http://31.133.46.225:8003/play/a016
+#EXTINF:-1 tvg-id="Bridge TV" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bridge%20TV.png",Bridge TV
+http://31.133.46.225:8003/play/a00f
+#EXTINF:-1 tvg-id="Bridge TV Deluxe HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bridge%20TV%20Deluxe%20HD.png",Bridge TV Deluxe HD
+http://31.133.46.225:8003/play/a00e
+#EXTINF:-1 tvg-id="Bridge TV Hits" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bridge%20TV%20Hits.png",Bridge TV Hits
+http://31.133.46.225:8003/play/a08j
+#EXTINF:-1 tvg-id="Bridge TV Rock" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bridge%20TV%20Rock.png",Bridge TV Rock
+http://31.133.46.225:8003/play/a07e
+#EXTINF:-1 tvg-id="Bridge TV Русский Хит" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bridge%20TV%20Русский%20Хит.png",Bridge TV Русский Хит
+http://31.133.46.225:8003/play/a00g
+#EXTINF:-1 tvg-id="Bridge TV Шлягер" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bridge%20TV%20Шлягер.png",Bridge TV Шлягер
+http://31.133.46.225:8003/play/a07f
+#EXTINF:-1 tvg-id="C Music TV HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/C%20Music%20TV%20HD.png",C Music TV HD
+http://31.133.46.225:8003/play/a08k
+#EXTINF:-1 tvg-id="Classic Music" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Classic%20Music.png",Classic Music
+http://31.133.46.225:8003/play/a00h
+#EXTINF:-1 tvg-id="VIVA Russia HD" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VIVA%20Russia%20HD.png",VIVA Russia HD
+http://31.133.46.225:8003/play/a09r
+#EXTINF:-1 tvg-id="MCM Top" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/MCM%20Top.png",MCM Top
+http://31.133.46.225:8003/play/a00x
+#EXTINF:-1 tvg-id="Europa Plus TV" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Europa%20Plus%20TV.png",Europa Plus TV
+http://31.133.46.225:8003/play/a029
+#EXTINF:-1 tvg-id="МузТВ" group-title="СКС-Лугань" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/МузТВ.png",МузТВ
+http://31.133.46.225:8003/play/a03u
+
+#EXTGRP:Казахтелеком
+#EXTINF:-1 tvg-id="Первый канал Евразия" group-title="Казахтелеком" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Первый%20канал%20Евразия.png",Первый канал Евразия
+http://89.218.32.179:18000/play/a046
+#EXTINF:-1 tvg-id="viju TV1000" group-title="Казахтелеком" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/viju%20TV1000.png",viju TV1000
+http://89.218.32.179:18000/play/a02v
+#EXTINF:-1 tvg-id="viju TV1000 action" group-title="Казахтелеком" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/viju%20TV1000%20action.png",viju TV1000 action
+http://89.218.32.179:18000/play/a02u
+#EXTINF:-1 tvg-id="viju TV1000 Новелла HD" group-title="Казахтелеком" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/viju%20TV1000%20Новелла%20HD.png",viju TV1000 Новелла HD
+http://89.218.32.179:18000/play/a030
+#EXTINF:-1 tvg-id="24 KZ" group-title="Казахтелеком" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/24%20KZ.png",24 KZ
+http://89.218.32.179:18000/play/a008
+#EXTINF:-1 tvg-id="QAZAQSTAN" group-title="Казахтелеком" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/QAZAQSTAN.png",QAZAQSTAN
+http://89.218.32.179:18000/play/a005
+#EXTINF:-1 tvg-id="Хабар HD" group-title="Казахтелеком" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Хабар%20HD.png",Хабар HD
+http://89.218.32.179:18000/play/a00a
+#EXTINF:-1 tvg-id="Че" group-title="Казахтелеком" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Че.png",Че
+http://89.218.32.179:18000/play/a04j
+#EXTINF:-1 tvg-id="Карусель" group-title="Казахтелеком" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Карусель.png",Карусель
+http://89.218.32.179:18000/play/a02r
+
+#EXTGRP:Спорткомплекс 🏆
+#EXTINF:-1 tvg-id="QAZSPORT HD" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/QAZSPORT%20HD.png",QAZSPORT HD
+http://89.218.32.179:18000/play/a009
+#EXTINF:-1 tvg-id="Матч! Арена" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Матч!%20Арена.png",Матч! Арена
+http://89.218.32.179:18000/play/a039
+#EXTINF:-1 tvg-id="Матч! Боец" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Матч!%20Боец.png",Матч! Боец
+http://89.218.32.179:18000/play/a037
+#EXTINF:-1 tvg-id="Матч! Игра" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Матч!%20Игра.png",Матч! Игра
+http://89.218.32.179:18000/play/a03b
+#EXTINF:-1 tvg-id="Матч ТВ" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Матч%20ТВ.png",Матч ТВ
+http://89.218.32.179:18000/play/a02p
+#EXTINF:-1 tvg-id="Матч! Футбол 1" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Матч!%20Футбол%201.png",Матч! Футбол 1
+http://89.218.32.179:18000/play/a034
+#EXTINF:-1 tvg-id="Матч! Футбол 2" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Матч!%20Футбол%202.png",Матч! Футбол 2
+http://89.218.32.179:18000/play/a035
+#EXTINF:-1 tvg-id="Матч! Футбол 3" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Матч!%20Футбол%203.png",Матч! Футбол 3
+http://89.218.32.179:18000/play/a036
+#EXTINF:-1 tvg-id="Матч Премьер" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Матч%20Премьер.png",Матч Премьер
+http://89.218.32.179:18000/play/a01o
+#EXTINF:-1 tvg-id="Viasat Sport" group-title="Спорткомплекс 🏆" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Viasat%20Sport.png",Viasat Sport
+http://89.218.32.179:18000/play/a02z
